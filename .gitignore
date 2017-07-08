@@ -1,2 +1,2 @@
 # Ignore freecad backup files
-*.fcstd*
+*.fcstd[0-9]*
